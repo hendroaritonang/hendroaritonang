@@ -2,6 +2,7 @@
 Network, Cloud, and Server Engineer based in Indonesia.
 Work focuses on ISP infrastructure, Linux systems, routing, and monitoring.
 Currently operating a VPP + Accel-PPP BNG stack at Nusanet.
+
 ---
 
 ## Work
@@ -11,7 +12,7 @@ Currently operating a VPP + Accel-PPP BNG stack at Nusanet.
 - Linux server administration: Ubuntu, Debian, systemd, nftables
 - Automation: Python, Bash, Ansible
 - Databases: MariaDB, PostgreSQL
-- 
+  
 ## Projects
 
 **VPP + Accel-PPP BNG Stack**
@@ -31,6 +32,7 @@ Scheduled configuration backup for MikroTik routers and switches.
 **Server Room Monitoring**
 Raspberry Pi-based environmental monitoring with Prometheus, Grafana,
 and Google Chat alerting. Deployed at PT. Media Antar Nusa.
+
 ---
 
 Personal site: [arios.id](https://arios.id)
